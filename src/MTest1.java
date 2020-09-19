@@ -8,6 +8,8 @@ public class MTest1 {
 	//printng
 	
 	//MINNAL
+	
+	//git commdand bash
 	}
 
 }
