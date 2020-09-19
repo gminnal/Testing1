@@ -5,6 +5,7 @@ public class MTest1 {
 		// TODO Auto-generated method stub
 
 	System.out.println("Hi");
+	//printng
 	}
 
 }
