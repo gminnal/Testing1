@@ -6,6 +6,8 @@ public class MTest1 {
 
 	System.out.println("Hi");
 	//printng
+	
+	//MINNAL
 	}
 
 }
